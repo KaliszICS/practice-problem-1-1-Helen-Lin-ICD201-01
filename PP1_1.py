@@ -1,8 +1,8 @@
-def q1(print):
+def q1():
   #Write Assignment code here
   print ("Hello World")
 
-def q2(print):
+def q2():
   #Write Assignment code here
   print(1)
   print(2)
@@ -10,9 +10,15 @@ def q2(print):
   print(4)
   print(5)
 
-def q3(print):
+def q3():
   #Write Assignment code here
   print (" Help Me!")
         
-def q4(print):
+def q4():
   #Write Assignment code here
+  print (3*3)
+
+q1()
+q2()
+q3()
+q4()
